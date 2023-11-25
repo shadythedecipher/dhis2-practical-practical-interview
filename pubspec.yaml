@@ -1,0 +1,27 @@
+name: weatherapp
+publish_to: 'none' # Remove this line if you wish to publish to pub.dev
+version: 1.0.0+1
+
+environment:
+  sdk: '>=3.0.6 <4.0.0'
+
+dependencies:
+  flutter:
+    sdk: flutter
+  cupertino_icons: ^1.0.2
+  get: ^4.6.5
+  shared_preferences: ^2.2.1
+  http: ^1.1.0
+  internet_connection_checker: ^1.0.0+1
+  otp_text_field: ^1.1.3
+  provider: ^6.0.5
+  intl: ^0.17.0
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+  flutter_lints: ^2.0.0
+flutter:
+  uses-material-design: true
+  assets:
+    - assets/images/

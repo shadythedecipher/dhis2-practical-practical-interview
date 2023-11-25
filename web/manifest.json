@@ -1,0 +1,35 @@
+{
+    "name": "wauzie",
+    "short_name": "wauzie",
+    "start_url": ".",
+    "display": "standalone",
+    "background_color": "#0175C2",
+    "theme_color": "#0175C2",
+    "description": "Wauzie application is a Flutter app that can help users advertise their products on various social media platforms, and also handle the customer interactions and transactions using a chat bot. Our app will allow users to create and manage their online campaigns, reach out to potential customers, and process their orders using natural language. Our app will use the APIs of different social media platforms such as Instagram, Facebook, Twitter, TikTok, and WhatsApp. Our app will also use a chat bot framework that can handle natural language processing, artificial intelligence, database management, payment integration, and other aspects. Our project is very ambitious and complex, but also very exciting and rewarding. We will learn a lot of new skills and technologies, and we will create something that can help many people and businesses.",
+    "orientation": "portrait-primary",
+    "prefer_related_applications": false,
+    "icons": [
+        {
+            "src": "icons/Icon-192.png",
+            "sizes": "192x192",
+            "type": "image/png"
+        },
+        {
+            "src": "icons/Icon-512.png",
+            "sizes": "512x512",
+            "type": "image/png"
+        },
+        {
+            "src": "icons/Icon-maskable-192.png",
+            "sizes": "192x192",
+            "type": "image/png",
+            "purpose": "maskable"
+        },
+        {
+            "src": "icons/Icon-maskable-512.png",
+            "sizes": "512x512",
+            "type": "image/png",
+            "purpose": "maskable"
+        }
+    ]
+}
